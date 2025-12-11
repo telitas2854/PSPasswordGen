@@ -15,7 +15,7 @@
         PSData = @{
             Tags = @('Password', 'Management', 'Utility', 'Generator', 'Windows', 'MacOS', 'Linux')
             License = 'MIT'
-            ProjectUri = 'https://github.com/telitas/PSPasswordGen'
+            ProjectUri = 'https://github.com/telitas2854/PSPasswordGen'
         }
     }
 }
